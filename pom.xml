@@ -34,4 +34,16 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+    <repository>
+         <id>nexus</id>
+         <name>devops-institute</name>
+         <url>http://13.126.221.78:8081/repository/devops-prod/</url>
+    </repository>
+    <snapshotRepository>
+         <id>nexus</id>
+         <name>devops-institute</name>
+         <url>http://13.126.221.78:8081/repository/devops-prod/</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
