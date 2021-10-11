@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congrats!</h1>
+<h1>Welome to devops class!</h1>
 <img src="thumb-paisley.png">
 
 <h2>You have successfully launched your Instance!</h2>
