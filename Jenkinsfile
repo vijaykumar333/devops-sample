@@ -3,9 +3,9 @@ pipeline {
 
     parameters {
         string(name: 'NAME', description: 'Please tell me your IP?')
-    }
         string(name: 'GIT', description: 'Please enter your git url')
     }
+        
 
     stages {
         stage("Git checkout") {
