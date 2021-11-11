@@ -38,12 +38,12 @@
     <repository>
          <id>nexus</id>
          <name>devops-institute</name>
-         <url>http://3.110.27.99:8081/repository/maven/</url>
+         <url>http://3.110.101.182:8081/repository/maven/</url>
     </repository>
     <snapshotRepository>
          <id>nexus</id>
          <name>devops-institute</name>
-         <url>http://3.110.27.99:8081/repository/maven/</url>
+         <url>http://3.110.101.182:8081/repository/maven/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
